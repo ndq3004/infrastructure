@@ -1,0 +1,6 @@
+demok8s/vagrant/*/.vagrant
+demok8s/vargrant
+**/bin
+**/obj
+demok8s/kubernetes-ingress
+demok8s/yv2/docker-development-youtube-series
